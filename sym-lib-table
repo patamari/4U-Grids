@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "grids4U-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/grids4U-eagle-import.kicad_sym")(options "")(descr ""))
+)
